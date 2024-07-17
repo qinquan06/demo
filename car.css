@@ -1,0 +1,1152 @@
+
+#div0{width: 100%;height:1000px;} 
+#div1{width:100%;height:80px; background: rgb(243, 248, 255); }  
+#div2{width:100%;height:50px; background: rgb(115, 115, 246); line-height: 50px;}  
+.span1{margin:auto auto;display:block;position:absolute;top:40px;left:17%;}  
+a{color: black;}  
+a:hover{color: orange;text-decoration: none;}  
+.span2{margin:auto auto;display:block;position:absolute;top:40px;left:37%;background-color: rgb(145, 208, 242);color:white }
+.text { margin-left: -120px; display:block; position:absolute; top:30px; left:40%; border-radius: 20px; width: 434px; height: 40px; border: 2px solid white; }
+.submit1 { margin-right: 200px; display:block; position:absolute; top:30px; left:57%; border-radius: 20px; width: 80px; height: 45px; background: orange; color: white; font-size: 20px; border: 0; }
+.forum-button { margin-left :-190px; display:block; position:absolute; top:30px; left:75%; border-radius: 20px; width: 100px; height: 40px; font-size: 25px; background-color: white; color: black; display: flex; justify-content: center; align-items: center; text-decoration: none; }
+.forum-button svg { font-size:20px; width: 20px; height: 20px; }
+.span3{margin:auto auto;display:block;position:absolute;top:40px;left:85%;}  
+.span4{margin:auto auto;display:block;position:absolute;top:40px;left:88%;}  
+.span5{margin-left: 970px;margin-bottom: 20px;}  
+
+.a1{  
+float: left;  
+width: 5%;  
+list-style-type: none;  
+padding-left: 10px;  
+font-size: 20px;  
+color: white;  
+}  
+.a2{ color: white; text-decoration: none;}
+#div2 ul li ul{display: none;margin: 0;padding: 0;}
+#div2 ul li:hover ul{display: block;}
+#div2 ul li ul li {background: white;width: 70px;height: 40px;font-size:15px;clear: both;list-style: none;}
+#div2 ul li ul li a{text-decoration: none;color: black;}
+#div4{width: 80%,height:10px;}
+#div4 ul{position: absolute;top: 150px;z-index: -1;}
+#div4 ul li{list-style: none;float: left; width:100%;}
+#div5 {
+    width: 96%;
+    height: 80px;
+    margin: 0 auto;  
+    flex: 1;
+    background: rgb(255, 255, 255);
+    line-height: 50px;
+    color: black;
+    margin-top: 220px;} 
+#div5 a {
+    color: black;  /* 设置链接颜色为黑色 */}
+#div5 a:hover {
+    color: blue;  /* 鼠标悬停时变成蓝色 */}
+#div5 ul li ul{display: none;margin:0;padding: 0;}
+#div5 ul li:hover ul{display: block;}
+#div5 ul li ul li {background: white;width: 70px;height: 40px;font-size:15px;clear: both;list-style: none;}
+#div5 ul li ul li a{text-decoration: none;color: black;}
+.a5{ 
+    margin-top: 5px;
+    float: left;  
+    width: 10%;  
+    list-style-type: none;  
+    padding-left: 30px;  
+    font-size: 20px;  
+    color: white;  
+    } 
+#div6{margin-top: -50px;height:80px;position: absolute;top: 500px;left: 35px;right:35px;background: white;}
+#div6 form font a{text-decoration: none;font-size: 20px;color: blue;}
+#div6 form font a:hover{color: orange;}
+   .span2 {
+       position: absolute;
+       padding: 5px;
+       display: inline-block;
+       margin-top: -5px;
+       margin-left: -15%;
+       border-radius: 5px;
+       color:black;
+   }
+   body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+}
+.container1 {
+    display: flex;
+    align-items: left;
+    margin-top: 90px;
+    margin-left: 35px;
+    margin-right: 35px;
+    padding: 20px;
+    background-color: #fff;
+}
+.box1 {
+    padding: 10px 20px;
+    background-color: #fff; /* 改为白色 */
+    border-radius: 5px;
+    text-align: center;
+    font-size: 22px;
+    color: #333;
+    flex: 1;
+    margin: 0 5px;
+}
+
+.left {
+    flex: 1;
+    font-size: 22px;
+    justify-content: center;
+    color: #4d4848;
+}
+
+.middle {
+    display: flex;
+    flex: 8;
+    justify-content: space-around;
+}
+
+.right {
+    flex: 1;
+    font-size: 16px;
+    color: #f60;
+    text-align: left;
+    margin-top: 10px;
+}
+
+.container2 {
+    display: flex;
+    width: 1515px;
+    margin: 0 auto ;
+    margin-left: 35px;
+    margin-top: 10px;
+    background-color: #fff;
+    padding:20px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.box2 {
+    width: 18%;
+    padding-top: 13%;
+    position: relative;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    margin-right: 20px;
+}
+.box2 img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: contain ;
+    background-repeat: no-repeat;
+    background-position:center;}
+
+    #div7 {
+        width: 96%;
+        height: 80px;
+        position: absolute;
+        top: 880px;
+        left: 35px;
+        margin-right:35px;
+        background-color: white; /* 添加白色背景 */
+    }
+    
+    #div7 ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+    
+    #div7 ul li {
+        width: 8%;
+        height: 80px;
+        float: left;
+        position: relative; /* 为了使内部的绝对定位有效 */
+    }
+    
+    #div7 ul li img {
+        width: 70px; /* 设置非弹出图片的宽度 */
+        height: 50px; /* 设置非弹出图片的高度 */
+        transition: all 0.6s;
+    }
+    
+    #div7 ul li a {
+        text-decoration: none;
+    }
+    
+    #div7 ul li .big-img {
+        position: absolute;
+        bottom: 100%; /* 使弹出框在图标的上方 */
+        left: 50%;
+        transform: translateX(-50%); /* 水平居中对齐 */
+        width: 300px; /* 根据需要调整大小 */
+        height: auto;
+        visibility: hidden;
+        opacity: 0;
+        transition: opacity 0.3s;
+        border: 2px solid black; /* 添加黑色边框 */
+        background-color: white; /* 背景色为白色 */
+        padding: 5px; /* 给边框与图片之间添加一些内边距 */
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5); /* 添加阴影效果 */
+    }
+    
+    #div7 ul li:hover .big-img {
+        visibility: visible;
+        opacity: 1;
+        z-index: 10; /* 确保图片显示在前 */
+    }
+    
+    #div7 ul li .big-img img {
+        width: 100%; /* 使大图片填满容器 */
+        height: auto;
+    }
+    
+/*#div7{width:100%;height:80px;position: absolute;top: 970px;left: 40px;}
+#div7 ul{list-style: none;}
+#div7 ul li{width: 8%;height: 80px;float: left;}
+#div7 ul li a{text-decoration: none;}
+#div7 ul li a img{transition:all 0.6s;}
+#div7 ul li a img:hover{transform: scale(3);}*/
+#div81{width:50%;height:100px;position: absolute;top: 900px;left: 40px;}
+#div8{width:50%;height:400px;position: absolute;top: 1040px;left: 40px;}
+#div9{width:42%;height:300px;position: absolute;top: 955px;right: 20px;}
+.moving-box {
+    width: 620px; /* 调整盒子宽度 */
+    height: 50px; /* 调整盒子高度 */
+    background-color: #f5f5f5; /* 背景色 */
+    position: relative;
+    top: 5%; 
+    left: 50%; 
+    transform: translate(-50%, -50%); /* 将盒子向左上角移动 */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: rgb(255, 0, 0);
+    font-size: 25px;
+}
+
+.box-content {
+    padding: 10px; /* 可以根据需要添加内边距 */
+    width: 620px; /* 调整盒子宽度 */
+    height: 30px; /* 调整盒子高度 */
+    border: 1px solid #ff0000; /* 添加文本区域的边框样式 */
+}
+.additional-text {
+    margin-top: 15px;
+    text-align: center;
+    color: #333; /* 调整文本颜色 */
+    font-size: 23.5px; /* 调整文本字体大小 */
+}
+
+.additional-text span {
+    padding: 0 5px;
+}
+
+.additional-text span:hover {
+    color: orange;
+    cursor: pointer;
+}
+
+#div10{width:90%;height:100px;position: absolute;top: 1455px;left: 35px;}
+#div11{width:90%;height:100px;position: absolute;top: 1590px;left: 35px;}
+
+.two-column-list {
+    columns: 2;
+    column-gap: 20px; /* 调整列间隙 */
+    row-gap: 20px;
+    max-width: 500px; /* 控制列表最大宽度 */
+    margin-left: 0px; /* 居中列表 */
+    padding: 0; /* 清除默认内边距 */
+    list-style-position: inside; /* 列表项符号内部对齐 */
+    font-size: 18px;
+
+}
+.two-column-list li {
+    margin-bottom: 10px; /* 调整每个列表项的下边距 */
+    cursor: pointer; /* 设置鼠标指针为手型 */
+}
+
+.two-column-list li:hover {
+    color: orange; /* 鼠标悬停时文字颜色变成橘色 */
+}
+
+
+    #div12 {
+      width: 90%;
+      height: auto; /* Adjusted to accommodate content */
+      position: absolute;
+      top: 1600px;
+      left: 550px;
+    }
+    .additional-text2 {
+      margin-top: 15px;
+      margin-right: 550px;
+      font-style: line-height: 70px; /* Incorrect property, removed */
+      text-align: left;
+      color: #333; /* Text color */
+      font-size: 21px; /* Text size */
+      line-height: 1.8; /* Adjusted line height */
+    }
+    .additional-text2 span {
+      padding: 0 5px;
+    }
+    .additional-text2 span:hover {
+      color: orange;
+      cursor: pointer;
+    }
+#div13{width:90%;height:100px;position: absolute;top: 1600px;left: 1170px;}
+#div132{width:90%;height:100px;position: absolute;top: 1920px;left: 1170px;}
+
+    .container14 {
+        width: 30%; /* 设置宽度为页面的三分之一 */
+        margin-left: 35px;
+        margin-top: 170px;
+        transform: translateY(1200px); /* 向下移动1200px */
+        position: relative;
+        left: 0; /* 将模块靠左对齐 */
+    }
+    
+    .header14 {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+    
+    .title14 {
+        font-size: 24px;
+        font-weight: bold;
+    }
+    
+    .view-more14 {
+        font-size: 16px;
+        color: black;
+        cursor: pointer;
+    }
+    
+    .view-more14:hover {
+        color: orange;
+    }
+    
+    .grid14 {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+    }
+    
+    .grid-item14 {
+        position: relative;
+    }
+    
+    .image14 {
+        position: relative;
+    }
+    
+    .image14 img {
+        width: 100%;
+        display: block;
+    }
+    
+    .overlay14 {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.7);
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        opacity: 0;
+        transition: opacity 0.3s;
+    }
+    .image14:hover .overlay14 {
+        opacity: 1;
+    }
+   /* #div15{width:90%;height:100px;position: absolute;top: 2250px;left: 550px;}*/
+    .container15 {
+        width: 33.33%; /* 设置宽度为页面的三分之一 */
+        margin-top: 690px; /* 上边距2000px */
+        margin-left: 550px; /* 左边距400px */
+    }
+    .header15 {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 10px;
+
+    }
+    .left-header15 {
+        display: flex;
+        align-items: center;
+        font-size: 28px;
+        
+    }
+    .right-header15 {
+        display: flex;
+        font-size: 20px;
+        align-items: right;
+    }
+    .header15 span {
+        margin-right: 10px;
+        cursor: pointer;
+    }
+    .header15 span:hover {
+        color: orange; /* 悬停时字体变黄 */
+    }
+    
+    .city15 {
+        font-weight: bold;
+    }
+    .list15 {
+        margin-top: -15px;
+        display: flex;
+        justify-content: space-between;
+        font-size: 22px;
+    }
+    .list15 ul {
+        list-style-type: disc; /* 显示原点 */
+        padding-left: 30px; /* 增加内边距以使原点不紧贴左边 */
+    }
+    .list15 li {
+        margin-bottom: 17px; /* 增加行间距 */
+        cursor: pointer;
+    }
+    
+    .list15 li:hover {
+        color: orange; /* 悬停时字体变色 */
+    }
+    .div162 {
+        width: 33.33%; /* 设置宽度为页面的三分之一 */
+        margin-top: -30px; /* 上边距2000px */
+        margin-left: 550px; /* 左边距400px */
+    }
+    .container17 {
+        width: 33.33%; /* 设置宽度为页面的三分之一 */
+        margin-top: -530px; /* 上边距2000px */
+        margin-left: 1170px; /* 左边距400px */
+    }
+    .list17 {
+        margin-top: -15px;
+        display: flex;
+        justify-content: space-between;
+        font-size: 22px;
+    }
+    
+    .list17 ul {
+        list-style-type: disc; /* 显示原点 */
+        padding-left: 30px; /* 增加内边距以使原点不紧贴左边 */
+    }
+
+    .list17 li {
+        margin-bottom: 10px; /* 增加行间距 */
+        cursor: pointer;
+    }
+    
+    .list17 li:hover {
+        color: orange; /* 悬停时字体变色 */
+    }
+    .div171 {
+        width: 33.33%; /* 设置宽度为页面的三分之一 */
+        margin-top: -30px; /* 上边距2000px */
+    }
+    .div18 {
+        margin-left: 35px; /* 上边距2000px */
+        margin-right: 35px; 
+        margin-top: 30px;
+    }
+    .container19 {
+        width: 450px;
+        margin-left :35px;
+        padding: 20px;
+        background-color: #fff;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    .header19 {
+        display: flex;
+        justify-content: left;
+        align-items: center;
+        margin-bottom: 10px;
+        font-size: 26px;
+    }
+.price-range19{
+    margin-bottom: 10px;
+    justify-content: left;
+}
+.additional-options19{
+    margin-bottom: 10px;
+}
+.brands19{
+    margin-bottom: 10px;
+}
+.tools19{
+    margin-bottom: 10px;
+}
+select {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    font-size: 20px;
+    border-radius: 3px;
+    height: 60px; /* 改变这个值来调整高度 */
+    box-sizing: border-box; /* 确保padding不影响高度 */
+}
+    button {
+        width: 100%;
+        padding: 20px;
+        margin-bottom: 20px;
+        font-size: 20px;
+        border: none;
+        border-radius: 5px;
+        background-color: #f60;
+        color: #fff;
+        cursor: pointer;
+    }
+    button:hover {
+        background-color: #e55;
+    }
+    .price-range19, .additional-options19, .brands19, .tools19 {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        
+    }
+    .price-range19 button, .additional-options19 button, .brands19 button {
+        width: 48%;
+        margin-bottom: 30px;
+    }
+    
+    .tools19 button {
+        width: 48%;
+        background-color: #008cff;
+    }
+    
+    .tools19 button:hover {
+        background-color: #007bff;
+    }
+    
+    .tools19 .license {
+        background-color: #00a0e9;
+    }
+    
+    .tools19 .license:hover {
+        background-color: #0091d1;
+    }
+    .container20 {
+        width: 30%; /* 设置宽度为页面的三分之一 */
+        margin-top: 20px; /* 上边距2000px */
+        margin-left: 35px; /* 左边距400px */
+    }
+    
+    .header20 {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 20px;
+    }
+    
+    .title20 {
+        font-size: 24px;
+        font-weight: bold;
+    }
+    
+    .right-section20 {
+        display: flex;
+        align-items: center;
+    }
+    
+    .submit-price20 {
+        font-size: 16px;
+        color: orange;
+        cursor: pointer;
+        margin-right: 20px; /* 两个元素之间的间距 */
+    }
+    
+    .more20 {
+        font-size: 16px;
+        color: grey;
+        cursor: pointer;
+    }
+    
+    .list20 {
+        margin-bottom: 20px;
+    }
+    
+    .list-item20 {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px 0;
+
+        cursor: pointer; /* 添加鼠标悬停效果 */
+    }
+    
+    .list-item20:hover .model20, .list-item20:hover .price20 {
+        color: orange; /* 悬停时字体变橘色 */
+    }
+    
+    .model20 {
+        flex: 1;
+    }
+    
+    .price20 {
+        color: orange;
+    }
+    
+    .bottom-section20 {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    .image-container20 {
+        flex: 1;
+    }
+    
+    .image-container20 img {
+        width: 125%;
+        height: auto;
+    }
+    
+    .controls20 {
+        flex: 2;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: flex-start;
+    }
+    
+    .controls20 select {
+        margin-bottom: 10px;
+        padding: 5px;
+        width: 80%;
+        margin-left: 50px;
+    }
+    
+    .controls20 button {
+        padding: 10px 20px;
+        background-color: blue;
+        width: 80%;
+        margin-left: 50px;
+        color: white;
+        border: none;
+        cursor: pointer;
+    }
+    
+    .controls20 button:hover {
+        background-color: darkblue;
+    }
+    .div21 {
+        margin-left: 35px; /* 上边距2000px */
+        margin-right: 35px; 
+        margin-top: 0px;
+    }
+
+    .container30 {
+        width: 30%; /* 设置宽度为页面的30% */
+        margin-left: 0; /* 左边距0 */
+    }
+    
+    .header30 {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 20px;
+        margin-left: 35px;
+        margin-bottom: 10px;
+    }
+    
+    .title30 {
+        font-size: 26px;
+        font-weight: bold;
+    
+    }
+    
+    .more30 {
+        display: flex;
+        align-items: center;
+        cursor: pointer;
+    }
+    
+    .more-text30 {
+        font-size: 23px;
+        color: black;
+        margin-right: 5px;
+    }
+    
+    .arrow30 {
+        font-size: 23px;
+        color: black;
+    }
+    
+    .more30:hover .more-text30,
+    .more30:hover .arrow30 {
+        color: orange; /* 悬停时变为橙色 */
+    }
+    
+    .content30 {
+        display: flex;
+    }
+    .images30 {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        margin-left: 35px;
+    }
+    .image30 {
+        position: relative;
+        margin-bottom: 30px;
+    }
+    .image30 img {
+        width: 220px; /* 设置图片宽度 */
+        height: 150px; /* 设置图片高度 */
+    }
+    .image-title30 {
+        position: absolute;
+        bottom: 5px;
+        left: 10px;
+        color: white;
+        background-color: rgba(0, 0, 0, 0.5);
+        padding: 5px;
+    }
+    
+    .list30 {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        font-size: 18px;
+        margin-left: 40px; /* 设置列表和图片之间的间距 */
+    }
+    .list-item30 {
+        padding: 5px 0;
+        cursor: pointer;
+        line-height: -0.5;
+    }
+    
+    .list-item30:hover {
+        color: orange; /* 悬停时字体变橙色 */
+    }
+    .container30 {
+        width: 30%; /* 设置宽度为页面的30% */
+        margin-left: 0; /* 左边距0 */
+    }
+    .header23 {
+        display: flex;
+        align-items: center;
+        margin-top: 20px;
+        margin-left: 35px;
+        margin-bottom: 10px;
+    }
+    
+    .title23 {
+        font-size: 26px;
+        font-weight: bold;
+    
+    }
+    
+    .more23 {
+        display: flex;
+        align-items: center;
+        cursor: pointer;
+    }
+    
+    .more-text23 {
+        color: black;
+        margin-left: 350px;
+        font-size: 20px;
+    }
+    
+    .arrow23 {
+        font-size: 23px;
+        color: black;
+    }
+
+    #div23 {
+        position: absolute;
+        margin-left: 35px;
+        margin-top: 3400px;
+    }
+    #div24 {
+        position: absolute;
+        margin-left: 550px;
+        margin-top: 1900px;
+    }
+    .container25 {
+        position: absolute;
+        left: 550px; /* 调整水平移动距离 */
+        top: 3350px; /* 调整垂直移动距离 */
+    }
+    
+    .module25 {
+        display: flex;
+        align-items: center;
+        font-size: 22px;
+        margin-bottom: 20px; /* 可以根据需要调整间距 */
+    }
+    .module25 .left25 img {
+        width: 100%; /* 图片宽度充满父容器 */
+        height: auto; /* 图片高度自适应 */
+    }
+    
+    .module25 .right25 {
+        flex: 1; /* 右侧文字列表占据剩余宽度 */
+        padding-left: 20px; /* 可以根据需要调整间距 */
+    }
+    
+    .module25 .right25 ul {
+        list-style: none; /* 去掉列表样式 */
+        padding: 0;
+    }
+    .module25 .right25 ul li {
+        margin-bottom: 10px; /* 可以根据需要调整间距 */
+        font-size: 1em; /* 可以根据需要调整文字大小 */
+    }
+    .container26 {
+        position: absolute;
+        left: 550px; /* 调整水平移动距离 */
+        top: 3550px; /* 调整垂直移动距离 */
+    }
+    .module26 {
+        display: flex;
+        align-items: center;
+        font-size: 22px;
+        margin-bottom: 20px; /* 可以根据需要调整间距 */
+    }
+    .module26 .left26 img {
+        width: 100%; /* 图片宽度充满父容器 */
+        height: auto; /* 图片高度自适应 */
+    }
+    .module26 .right26 {
+        flex: 1; /* 右侧文字列表占据剩余宽度 */
+        padding-left: 20px; /* 可以根据需要调整间距 */
+    }
+    .module26 .right26 ul {
+        list-style: none; /* 去掉列表样式 */
+        padding: 0;
+    }
+    .module26 .right26 ul li {
+        margin-bottom: 10px; /* 可以根据需要调整间距 */
+        font-size: 1em; /* 可以根据需要调整文字大小 */
+    }
+    .container27 {
+        position: absolute;
+        left: 550px; /* 调整水平移动距离 */
+        top: 3750px; /* 调整垂直移动距离 */
+    }
+    .module27 {
+        display: flex;
+        align-items: center;
+        font-size: 22px;
+        margin-bottom: 20px; /* 可以根据需要调整间距 */
+    }
+    .module27 .left27 img {
+        width: 100%; /* 图片宽度充满父容器 */
+        height: auto; /* 图片高度自适应 */
+    }
+    
+    .module27 .right27 {
+        flex: 1; /* 右侧文字列表占据剩余宽度 */
+        padding-left: 20px; /* 可以根据需要调整间距 */
+    }
+    .module27 .right27 ul {
+        list-style: none; /* 去掉列表样式 */
+        padding: 0;
+    }
+    .module27 .right27 ul li {
+        margin-bottom: 10px; /* 可以根据需要调整间距 */
+        font-size: 1em; /* 可以根据需要调整文字大小 */
+    }
+    .container28 {
+        position: absolute;
+        left: 550px; /* 调整水平移动距离 */
+        top: 3950px; /* 调整垂直移动距离 */
+    }
+    
+    .module28 {
+        display: flex;
+        align-items: center;
+        font-size: 22px;
+        margin-bottom: 20px; /* 可以根据需要调整间距 */
+    }
+    .module28 .left28 img {
+        width: 100%; /* 图片宽度充满父容器 */
+        height: auto; /* 图片高度自适应 */
+    }
+    
+    .module28 .right28 {
+        flex: 1; /* 右侧文字列表占据剩余宽度 */
+        padding-left: 20px; /* 可以根据需要调整间距 */
+    }
+    
+    .module28 .right28 ul {
+        list-style: none; /* 去掉列表样式 */
+        padding: 0;
+    }
+    
+    .module28 .right28 ul li {
+        margin-bottom: 10px; /* 可以根据需要调整间距 */
+        font-size: 1em; /* 可以根据需要调整文字大小 */
+    }
+
+    .box-content29 {
+        position: absolute;
+        left: 550px; /* 调整水平移动距离 */
+        top: 4150px; /* 调整垂直移动距离 */
+        width: 560px; /* 调整盒子宽度 */
+        height: 30px; /* 调整盒子高度 */
+        border: 1px solid #ff0000; /* 添加边框样式 */
+        padding: 10px; /* 添加内边距 */
+        font-size: 25px; /* 设置文字大小 */
+        color: red; /* 设置文字颜色 */
+        display: flex; /* 使用Flex布局 */
+        align-items: center; /* 垂直居中 */
+        justify-content: center; /* 水平居中 */
+        text-align: center; /* 文字水平居中 */
+    }
+    .container32 {
+        width: 35%; /* 设置宽度为页面的30% */
+        margin-left: 540px; /* 左边距0 */
+        margin-top: 3210px; /* 调整垂直移动距离 */
+    }
+    .header32 {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        font-size: 26px;
+    }
+    h2 {
+        margin: 0;
+        padding: 0;
+        color: #333;
+        font-size: 24px;
+    }
+    .links32 {
+        display: flex;
+        gap: 10px;
+    }
+    .links32 a {
+        color: #333;
+        text-decoration: none;
+        font-size: 14px;
+    }
+    .links32 a:hover {
+        color: #f60;
+    }
+    .reviews32 {
+        display: flex;
+        flex-direction: column;
+        margin-top: 20px;
+    }
+    .review-item32 {
+        width: 100%;
+        display: flex;
+        margin-bottom: 20px;
+        overflow: hidden;
+    }
+    .image-container32 {
+        position: relative;
+        width: 180px;
+        height: 180px;
+        overflow: hidden;
+        flex-shrink: 0;
+    }
+    .image-container32 img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    .image-title32 {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        background-color: rgba(0, 0, 0, 0.5);
+        color: #fff;
+        padding: 5px;
+        box-sizing: border-box;
+        text-align: center;
+    }
+    .review-content32 {
+        padding: 10px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        font-size: 20px;
+        width: 100%;
+    }
+    .review-text32 {
+        display: flex;
+        align-items: center;
+        margin-bottom: 5px;
+    }
+    .new-label32 {
+        color: #f60;
+        font-weight: bold;
+        margin-right: 5px;
+    }
+    .review-content32 a {
+        color: #333;
+        text-decoration: none;
+    }
+    .review-content32 a:hover {
+        color: #f60;
+    }
+    .activity34 {
+        padding: 10px;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        width: 30%;
+        margin-left: 1150px;
+        margin-top: -1520px;
+    }
+    .activity34 h3 {
+        margin: 0 0 10px 0;
+        color: #333;
+    }
+    .activity-item34 {
+        position: relative;
+    }
+    .activity-item34 img {
+        width: 90%;
+        height: auto;
+        margin-left: 20px;
+    }
+    .activity-title34 {
+        margin: 0px 120px;
+        font-size: 20px;
+        color: #333;
+        align-items: center;
+        justify-content: center;
+    }
+    .activity-list34 {
+        list-style-type: none;
+        padding: 0;
+        margin-top: 2px;
+    }
+    .activity-list34 li {
+        margin-bottom: 2px;
+        color: #333;
+        font-size: 16px;
+    }    
+    .activity-list34 li::before {
+        content: "•";
+        margin-right: 5px;
+        color: #333;
+    }    
+    .activity34 a:hover,
+    .activity34 li:hover {
+        color: #f60;
+    }
+    .container33{width:auto;height:auto;position: absolute;top: 2900px;left: 1180px;}
+    .activity35 {
+        padding: 10px;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        width: 30%;
+        margin-left: 1150px;
+        margin-top: -10px;
+    }
+    .activity-item35 {
+        position: relative;
+    }
+    .activity-item35 img {
+        width: 90%;
+        height: auto;
+        margin-left: 20px;
+    }
+    .activity-title35 {
+        margin: 0px 120px;
+        font-size: 20px;
+        color: #333;
+        align-items: center;
+        justify-content: center;
+    }
+    .activity-list35 {
+        list-style-type: none;
+        padding: 0;
+        margin-top: 2px;
+    }
+    .activity-list35 li {
+        margin-bottom: 2px;
+        color: #333;
+        font-size: 16px;
+    }    
+
+    .activity-list35 li::before {
+        content: "•";
+        margin-right: 5px;
+        color: #333;
+    }
+    .activity35 a:hover,
+    .activity35 li:hover {
+        color: #f60;
+    }
+    .activity36 {
+        padding: 10px;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        width: 30%;
+        margin-left: 1150px;
+        margin-top: -20px;
+    }
+    .activity-item36 {
+        position: relative;
+    }
+    .activity-item36 img {
+        width: 90%;
+        height: auto;
+        margin-left: 20px;
+    }
+    .activity-title36 {
+        margin: 0px 120px;
+        font-size: 20px;
+        color: #333;
+        align-items: center;
+        justify-content: center;
+    }
+    .activity-list36 {
+        list-style-type: none;
+        padding: 0;
+        margin-top: 2px;
+    }
+    .activity-list36 li {
+        margin-bottom: 2px;
+        color: #333;
+        font-size: 16px;
+    }    
+    .activity-list36 li::before {
+        content: "•";
+        margin-right: 5px;
+        color: #333;
+    }
+    .activity36 a:hover,
+    .activity36 li:hover {
+        color: #f60;
+    }
+    .container37{position: absolute;top: 4250px;left: 1150px;}
+
+    .container38{width:auto;height:auto;position: absolute;top: 4680px;left: 35px;}
+/*
+#div11{width: 50px;height: 800px;position: absolute;top: 160px;right: 0px;background: black;}
+#div11 ul{list-style: none;padding-left: 5px;}
+#div11 ul li img{width: 25px;height: 25px;}
+#div11 ul li img:hover{background: orange;}*/
+
+
+
